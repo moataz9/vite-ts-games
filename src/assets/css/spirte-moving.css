@@ -1,0 +1,22 @@
+#spirte-moveing-canvas {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border: 5px solid #000;
+  width: 600px;
+  height: 660px;
+}
+
+.controls {
+  position: absolute;
+  z-index: 10;
+  top: 100px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+.controls,
+select,
+option {
+  font-size: 25px;
+}
