@@ -11,6 +11,7 @@ export default defineConfig({
         'playing-animation': resolve(__dirname, 'pages/playing-animation/index.html'),
         'point-shoot': resolve(__dirname, 'pages/point-shoot/index.html'),
         'sprite-moving': resolve(__dirname, 'pages/sprite-moving/index.html'),
+        'enemy-variety': resolve(__dirname, 'pages/enemy-variety/index.html'),
       },
     },
   },
