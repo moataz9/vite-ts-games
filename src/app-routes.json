@@ -18,5 +18,9 @@
   {
     "href": "pages/point-shoot/index.html",
     "name": "Point &amp; shoot Game"
+  },
+  {
+    "href": "pages/enemy-variety/index.html",
+    "name": "Enemy Variety"
   }
 ]

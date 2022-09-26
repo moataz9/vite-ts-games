@@ -25,8 +25,6 @@ for (let i = 0; i < numberOfEnemies; i += 1) {
   enemiesArr.push(new Enemy(npcMovementCanvas, enemy1_img_src))
 }
 
-console.log(enemiesArr)
-
 function animate() {
   gameFrame++
   ctx?.clearRect(0, 0, CANVAS_WIDTH, CANVAS_HEIGHT)
